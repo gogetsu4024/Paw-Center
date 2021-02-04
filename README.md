@@ -1,6 +1,5 @@
 # PawCenter android application ( Java / mvvm )
 ![1](https://user-images.githubusercontent.com/69165378/89230195-c56c0900-d5da-11ea-98e5-f92a1fe4d234.png)
-![2](https://user-images.githubusercontent.com/69165378/89230196-c6049f80-d5da-11ea-8475-e367d1a72ed4.png)
 ![3](https://user-images.githubusercontent.com/69165378/89230200-c69d3600-d5da-11ea-9308-cb7d71cd873a.png)
 ![4](https://user-images.githubusercontent.com/69165378/89230208-c7ce6300-d5da-11ea-92ed-a7bb3e4433e6.png)
 ![5](https://user-images.githubusercontent.com/69165378/89230209-c866f980-d5da-11ea-8b19-eab7b0a7040a.png)
